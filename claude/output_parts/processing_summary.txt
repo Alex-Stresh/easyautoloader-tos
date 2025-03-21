@@ -1,9 +1,0 @@
-ОТЧЕТ О ОБРАБОТКЕ ВИДЕО
-==================================================
-
-Всего обработано видео: 1
-
-Видео 01: One Punch Mickey Strikes | Brad Pitt in SNATCH
-Папка: output_parts\video_01
-Папка с нарезками: output_parts\video_01\One Punch Mickey Strikes  Brad Pitt in SNATCH
-------------------------------
